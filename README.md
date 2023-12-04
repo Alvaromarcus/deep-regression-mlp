@@ -29,11 +29,11 @@ Scikit-Learn
 Seaborn
 Matplotlib
 
-##README (EN-US)
-#Linear Regression Project with MLP for Car Price Estimation
+## README (EN-US)
+# Linear Regression Project with MLP for Car Price Estimation
 This repository contains a linear regression project using MLP (Multilayer Perceptron) networks to estimate car prices. The code preprocesses data, performs statistical analysis, and optimizes the neural network architecture.
 
-##Usage Instructions:
+## Usage Instructions:
 Prerequisites:
 
 Ensure you have Python installed in your environment.
