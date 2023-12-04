@@ -1,7 +1,7 @@
-Projeto de Regressão Linear com MLP para Estimar Preços de Automóveis
+# Projeto de Regressão Linear com MLP para Estimar Preços de Automóveis
 Este repositório contém um projeto de regressão linear utilizando redes MLP (Multilayer Perceptron) para estimar preços de automóveis. O código realiza o pré-processamento dos dados, análise estatística, e otimização da arquitetura da rede neural.
 
-Instruções de Uso:
+## Instruções de Uso:
 Pré-requisitos:
 
 Certifique-se de ter o Python instalado em seu ambiente.
@@ -28,11 +28,12 @@ Keras Tuner
 Scikit-Learn
 Seaborn
 Matplotlib
-README (EN-US)
-Linear Regression Project with MLP for Car Price Estimation
+
+##README (EN-US)
+#Linear Regression Project with MLP for Car Price Estimation
 This repository contains a linear regression project using MLP (Multilayer Perceptron) networks to estimate car prices. The code preprocesses data, performs statistical analysis, and optimizes the neural network architecture.
 
-Usage Instructions:
+##Usage Instructions:
 Prerequisites:
 
 Ensure you have Python installed in your environment.
