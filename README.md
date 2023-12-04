@@ -28,6 +28,8 @@ Keras Tuner
 Scikit-Learn
 Seaborn
 Matplotlib
+Python 3.11
+Jupyter Notebook
 
 ## README (EN-US)
 # Linear Regression Project with MLP for Car Price Estimation
@@ -60,3 +62,11 @@ Keras Tuner
 Scikit-Learn
 Seaborn
 Matplotlib
+Python 3.11
+Jupyter Notebook
+
+Data: 11 de novembro de 2023
+---------------------------------
+Arquivo: Alvaro_Regressao_AutosTuner_R01.ipynb
+Autor: Álvaro S. Marcus
+
