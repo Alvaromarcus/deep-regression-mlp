@@ -20,6 +20,7 @@ Arquivos Principais:
 Alvaro_Regressao_AutosTuner_R01.py: Script principal que carrega os dados, realiza pré-processamento e treina o modelo.
 estrutura_modelo_tuner.json: Estrutura da rede neural otimizada em formato JSON.
 modelo_tuner.h5: Pesos do modelo otimizado em formato H5.
+
 Bibliotecas Utilizadas:
 Pandas
 NumPy
@@ -54,6 +55,7 @@ Main Files:
 Alvaro_Regressao_AutosTuner_R01.py: Main script that loads data, preprocesses it, and trains the model.
 estrutura_modelo_tuner.json: Structure of the optimized neural network in JSON format.
 modelo_tuner.h5: Weights of the optimized model in H5 format.
+
 Used Libraries:
 Pandas
 NumPy
