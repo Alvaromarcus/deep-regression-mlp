@@ -17,7 +17,7 @@ Resultados e Modelos:
 Os resultados, melhores hiperparâmetros e métricas de desempenho são exibidos durante a execução.
 O modelo otimizado é salvo nos arquivos estrutura_modelo_tuner.json (estrutura) e modelo_tuner.h5 (pesos).
 Arquivos Principais:
-main.py: Script principal que carrega os dados, realiza pré-processamento e treina o modelo.
+Alvaro_Regressao_AutosTuner_R01.py: Script principal que carrega os dados, realiza pré-processamento e treina o modelo.
 estrutura_modelo_tuner.json: Estrutura da rede neural otimizada em formato JSON.
 modelo_tuner.h5: Pesos do modelo otimizado em formato H5.
 Bibliotecas Utilizadas:
@@ -49,7 +49,7 @@ Results and Models:
 Results, best hyperparameters, and performance metrics are displayed during execution.
 The optimized model is saved in the files estrutura_modelo_tuner.json (structure) and modelo_tuner.h5 (weights).
 Main Files:
-main.py: Main script that loads data, preprocesses it, and trains the model.
+Alvaro_Regressao_AutosTuner_R01.py: Main script that loads data, preprocesses it, and trains the model.
 estrutura_modelo_tuner.json: Structure of the optimized neural network in JSON format.
 modelo_tuner.h5: Weights of the optimized model in H5 format.
 Used Libraries:
